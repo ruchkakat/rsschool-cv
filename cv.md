@@ -1,6 +1,6 @@
 # Kateryna Ruchka
 ## Web Developer
-### Contact information:
+### Contact information
 **Location:** Lviv, Ukraine\
 **E-mail:** ruchka.kateryna@gmail.com\
 **RS School Discord nickname:** Kateryna Ruchka (@ruchkakat)\
@@ -41,3 +41,11 @@ for (var x = 0; x < input.length; x = x + 1) {
     }
 }
 ```
+### Experience
+I have been working as a web developer for 1 year. Most of my job is writing code for emails using HTML (Table coding) and CSS.
+### Education
+**"Management of hotel, resort and tourist service"** O.M. Beketov National University of Urban Economy in Kharkiv
+### Languages
+***Ukrainian:*** Native\
+***Russian:*** Native\
+***English:*** Intermediate
